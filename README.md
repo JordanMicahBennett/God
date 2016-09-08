@@ -1,4 +1,4 @@
-![Alt text](https://github.com/JordanMicahBennett/SYNTHETIC-SENTIENCE/blob/master/source-code/data/images/captures/0.png?raw=true "default page")
+![Alt text](https://github.com/JordanMicahBennett/God/blob/master/source%20code/data/images/Worm_Holes%2C_By_OmniDaily.gif "default page")
 
 DESCRIPTION
 ============================================
