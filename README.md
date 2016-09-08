@@ -1,4 +1,4 @@
-![Alt text](https://github.com/JordanMicahBennett/God/blob/master/source%20code/data/images/Worm_Holes%2C_By_OmniDaily.gif "default page")
+![Alt text](https://github.com/JordanMicahBennett/God/blob/master/source%20code/data/images/God.png "default page")
 
 DESCRIPTION
 ============================================
