@@ -20,3 +20,14 @@ AUTHOR PORTFOLIO
 http://folioverse.appspot.com/
 
 
+
+
+Post Scriptum
+============================================
+I haven't any belief, and thereafter, I haven't any belief in God or gods. 
+
+
+However:
+
+
+Mankind, shall [perhaps](https://drive.google.com/file/d/0BygoJuJECa4wcUxPZy1IUlpoV2M/view). promptly possess/generate certain God bound capabilities.
