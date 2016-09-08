@@ -29,7 +29,7 @@ See [thought curvature](http://www.academia.edu/25733790/Causal_Neural_Paradox_T
 
 THOUGHT CURVATURE LOGIC
 ============================================
-Abstraction expression/composition language.
+Manifold abstraction expression/composition language.
 
 
 
