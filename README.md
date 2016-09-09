@@ -37,10 +37,6 @@ Manifold abstraction expression/composition language.
 
 
 
-AUTHOR PORTFOLIO
-============================================
-http://folioverse.appspot.com/
-
 
 
 
@@ -55,3 +51,16 @@ However:
 
 
 Mankind, shall [perhaps](https://drive.google.com/file/d/0BygoJuJECa4wcUxPZy1IUlpoV2M/view) promptly possess/generate certain God bound capabilities.
+
+
+
+
+
+
+
+
+
+
+AUTHOR PORTFOLIO
+============================================
+http://folioverse.appspot.com/
