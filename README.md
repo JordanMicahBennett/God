@@ -43,7 +43,7 @@ On [observation](https://www.quora.com/How-does-quantum-computing-work/answer/Jo
 
 
 
-ORGANIZATION
+LABORATORY
 ============================================
 http://mindparadoxlabs.appspot.com/
 
