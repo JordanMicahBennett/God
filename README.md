@@ -32,7 +32,7 @@ LOGIC
 Manifold abstraction expression/composition language.
 
 
-On [observation](https://www.quora.com/How-does-quantum-computing-work/answer/Jordan-Bennett-9) of the mechanics of the universe (whence abstractions {~reality} compound in particle interaction and thereafter, particle terms) and machine learning longueur, I have come to compose [God’s boundary](https://github.com/JordanMicahBennett/God).
+On [observation](https://www.quora.com/How-does-quantum-computing-work/answer/Jordan-Bennett-9) of the mechanics of the universe (whence abstractions {~reality} compound in particle interaction sequences and thereafter, in particle terms) and machine learning longueur, I have come to compose [God’s boundary](https://github.com/JordanMicahBennett/God).
 
 
 
