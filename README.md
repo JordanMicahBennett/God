@@ -42,7 +42,7 @@ An [assimilation](https://www.quora.com/How-does-quantum-computing-work/answer/J
 
 
 
-STARTUP
+ORGANIZATION
 ============================================
 http://mindparadoxlabs.appspot.com/
 
