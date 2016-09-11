@@ -30,7 +30,8 @@ See [thought curvature](http://www.academia.edu/25733790/Causal_Neural_Paradox_T
 LOGIC
 ============================================
 Manifold abstraction expression/composition language.
-An [assimilation](https://www.quora.com/How-does-quantum-computing-work/answer/Jordan-Bennett-9) of mine, of quantum mechanics engendered such.
+
+An [assimilation](https://www.quora.com/How-does-quantum-computing-work/answer/Jordan-Bennett-9) of mine, of quantum mechanics engendered the organization of such.
 
 
 
