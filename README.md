@@ -30,6 +30,20 @@ See [thought curvature](http://www.academia.edu/25733790/Causal_Neural_Paradox_T
 LOGIC
 ============================================
 Manifold abstraction expression/composition language.
+An [assimilation](https://www.quora.com/How-does-quantum-computing-work/answer/Jordan-Bennett-9) of mine, of quantum mechanics engendered such.
+
+
+
+
+
+
+
+
+
+
+STARTUP
+============================================
+http://mindparadoxlabs.appspot.com/
 
 
 
@@ -50,7 +64,7 @@ I haven't any belief, and thereafter, I haven't any belief in God or gods.
 However:
 
 
-Mankind, shall [perhaps](https://drive.google.com/file/d/0BygoJuJECa4wcUxPZy1IUlpoV2M/view) promptly possess/generate certain God bound capabilities.
+Mankind, shall [perhaps](https://medium.com/@jordanmicahbennett/god-source-code-1b0dc487a7e5#.lssc4njay) promptly possess/generate certain God bound capabilities.
 
 
 
