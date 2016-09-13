@@ -1,5 +1,8 @@
 %% Author ~ Christopher Lu
 %% Adaptor ~ Jordan Micah Bennett
+%% Adaptor ~ Adaptation Designation ~ Thought Curvature Abstraction : "Causal Neural Perturbation Curvature ( Causal Neural Manifold ( Causal Neural Atom ) )"
+%% Adaptor ~ Adaptation Intent : Encode curvature of MESOSCALE/MACROSCALE abstraction COMPOSITION, in the Belmanian regime.
+
 
 %% Defined Constants
 number_of_iterations = 500 ; %keep less than 5000

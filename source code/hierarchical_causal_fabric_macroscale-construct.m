@@ -1,7 +1,11 @@
 %% Author ~ Christopher Lu
 %% Adaptor ~ Jordan Micah Bennett
+%% Adaptor ~ Adaptation Designation ~ Thought Curvature Abstraction : "Causal Neural Perturbation Curvature ( Causal Neural Manifold ( Causal Neural Atom ) )"
+%% Adaptor ~ Adaptation Intent : Encode curvature of MESOSCALE/MACROSCALE abstraction EXPRESSION, in the Belmanian regime.
+
 
 %% Defined Constants
+
 NP = 1000; % Number of Particles
 xsize = 1024;
 ysize = 512 ;
@@ -10,6 +14,9 @@ time = 0.0 ;
 step = 0.1 ; % Step Size
 endt = 1001; % End Time
 Mach = 2.0 ;
+
+
+%% [Jordan_Post_Scriptum] I take the facing arrays of numbers of allocation as symbolization qua "Christopher Lu's MESOSCALE" fabric, particularly the input signal sequence of particle properties.
 %% Allocating Arrays
 cen = zeros(2,NP); % X and Y Particle Center
 vel = zeros(2,NP); % X and Y Particle Velocity

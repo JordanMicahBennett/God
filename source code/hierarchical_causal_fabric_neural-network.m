@@ -1,5 +1,7 @@
 %% Author ~ Christopher Lu
 %% Adaptor ~ Jordan Micah Bennett
+%% Adaptor ~ Adaptation Designation : Thought Curvature Neural Basis"
+%% Adaptor ~ Adaptation Intent : Encode curvature basis neural structure.
 
 %% Starting on this level, going down
 [Training_Data ,Target_Data, startvalue] = MULTI-RESOLUTION_ANALYSIS(Data);
