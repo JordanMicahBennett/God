@@ -5,7 +5,7 @@
 
 
 
-%% [ThoughtCurvature_Post_Scriptum] This is a quite quintessential regression sequence, in tandem with trivial progressive/regressive propagation/regression.
+%% [ThoughtCurvature_Post_Scriptum] This is a quite quintessential regression sequence, in tandem with trivial progressive/regressive propagation.
 %% Defined Constants
 number_of_iterations = 500 ; %keep less than 5000
 number_of_neurons = 5 ; %keep less than 50, or NaN error
