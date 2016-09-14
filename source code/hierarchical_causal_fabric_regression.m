@@ -1,5 +1,5 @@
 %% Author ~ Christopher Lu
-%% Adaptor ~ Jordan Micah Bennett
+%% Adaptor ~ Jordan Micah Bennett ~ Thought Curvature Hypothesis
 %% Adaptor ~ Adaptation Designation ~ Thought Curvature Abstraction : "Causal Neural Perturbation Curvature ( Causal Neural Manifold ( Causal Neural Atom ) )"
 %% Adaptor ~ Adaptation Intent : The encodement of curvature par MESOSCALE/MACROSCALE {η} abstraction COMPOSITION, in the Belmanian regime. Therein, I shall derive strictly non-intemperate fluid-particle|particle-particle  interaction sequences, betwixt some reasonable bound in Mach number M terms...
 
