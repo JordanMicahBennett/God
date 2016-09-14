@@ -4,6 +4,8 @@
 %% Adaptor ~ Adaptation Intent : The encodement of curvature par MESOSCALE/MACROSCALE {η} abstraction COMPOSITION, in the Belmanian regime. Therein, I shall derive strictly non-intemperate fluid-particle|particle-particle  interaction sequences, betwixt some reasonable bound in Mach number M terms...
 
 
+
+%% [ThoughtCurvature_Post_Scriptum] This is a quite quintessential regression sequence, in tandem with trivial progressive/regressive propagation/regression.
 %% Defined Constants
 number_of_iterations = 500 ; %keep less than 5000
 number_of_neurons = 5 ; %keep less than 50, or NaN error

@@ -3,6 +3,10 @@
 %% Adaptor ~ Adaptation Designation : Thought Curvature Neural Basis"
 %% Adaptor ~ Adaptation Intent : The encodement of curvature basis neural structure.
 
+
+
+%% [ThoughtCurvature_Post_Scriptum] This is a quite quintessential neural sequence, in tandem with trivial neuronal units of outcomes, gradients and weights.
+
 %% Starting on this level, going down
 [Training_Data ,Target_Data, startvalue] = MULTI-RESOLUTION_ANALYSIS(Data);
 starting_level = size(outputs,2);
