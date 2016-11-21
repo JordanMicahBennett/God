@@ -67,7 +67,7 @@ I haven't any belief, and thereafter, I haven't any belief in God or gods.
 However:
 
 
-Mankind, shall [perhaps](https://medium.com/@jordanmicahbennett/god-source-code-1b0dc487a7e5#.lssc4njay) promptly possess/generate certain God bound capabilities.
+Mankind, shall [perhaps](https://medium.com/@uni.omniscient.x/god-is-probably-quite-real-a466e9f24a0b#.rsg2cokz7) promptly possess/generate certain God bound capabilities.
 
 
 
