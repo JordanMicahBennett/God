@@ -61,7 +61,7 @@ http://mindparadoxlabs.appspot.com/
 
 POST SCRIPTUM
 ============================================
-I haven't any belief, and thereafter, I haven't any belief in God or gods. 
+I [haven't any belief](http://nonbeliefism.com), and thereafter, I haven't any belief in God or gods. 
 
 
 However:
