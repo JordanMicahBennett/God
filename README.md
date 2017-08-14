@@ -38,7 +38,7 @@ Manifold abstraction expression/composition language.
 
 
 
-On [observation](https://www.quora.com/How-does-quantum-computing-work/answer/Jordan-Bennett-9) of the mechanics of the universe (whence abstractions {~reality} compound in particle interaction sequences and thereafter, in particle terms) and machine learning longueur (i.e. [A detailed description of mine, constituiting the manifold hypothesis](https://www.quora.com/What-is-the-Manifold-Hypothesis-in-Deep-Learning/answer/Jordan-Bennett-9), [An extensive description of mine constituting deep-q-learning](https://www.quora.com/Artificial-Intelligence-What-is-an-intuitive-explanation-of-how-deep-Q-networks-DQN-work/answer/Jordan-Bennett-9)), I had come to compose of [God’s boundary](https://github.com/JordanMicahBennett/God).
+On [observation](https://www.quora.com/How-does-quantum-computing-work/answer/Jordan-Bennett-9) of the mechanics of the universe (whence abstractions {~reality} compound in particle interaction sequences and thereafter, in particle terms) and machine learning longueur (i.e. [A simple neural model of mine](https://github.com/JordanMicahBennett/SIMPLE-NEURAL-NETWORK), [A detailed description of mine, constituiting the manifold hypothesis](https://www.quora.com/What-is-the-Manifold-Hypothesis-in-Deep-Learning/answer/Jordan-Bennett-9), [An extensive description of mine constituting deep-q-learning](https://www.quora.com/Artificial-Intelligence-What-is-an-intuitive-explanation-of-how-deep-Q-networks-DQN-work/answer/Jordan-Bennett-9)...), I had come to compose of [God’s boundary](https://github.com/JordanMicahBennett/God).
 
 
 
