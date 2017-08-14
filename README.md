@@ -38,7 +38,7 @@ Manifold abstraction expression/composition language.
 
 
 
-On [observation](https://www.quora.com/How-does-quantum-computing-work/answer/Jordan-Bennett-9) of the mechanics of the universe (whence abstractions {~reality} compound in particle interaction sequences and thereafter, in particle terms) and machine learning longueur (i.e. [Manifold Hypothesis](https://www.quora.com/What-is-the-Manifold-Hypothesis-in-Deep-Learning)), I had come to compose of [God’s boundary](https://github.com/JordanMicahBennett/God).
+On [observation](https://www.quora.com/How-does-quantum-computing-work/answer/Jordan-Bennett-9) of the mechanics of the universe (whence abstractions {~reality} compound in particle interaction sequences and thereafter, in particle terms) and machine learning longueur (i.e. [A description of mine, constituiting the manifold hypothesis](https://www.quora.com/What-is-the-Manifold-Hypothesis-in-Deep-Learning/answer/Jordan-Bennett-9)), I had come to compose of [God’s boundary](https://github.com/JordanMicahBennett/God).
 
 
 
