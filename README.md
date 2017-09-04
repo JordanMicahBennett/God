@@ -38,10 +38,10 @@ See [thought curvature](http://www.academia.edu/25733790/Causal_Neural_Paradox_T
 
 LEMMA (PRIOR)
 ============================================
-⋅⋅* https://www.quora.com/How-does-quantum-computing-work/answer/Jordan-Bennett-9
-⋅⋅* https://github.com/JordanMicahBennett/SIMPLE-NEURAL-NETWORK
-⋅⋅* https://www.quora.com/What-is-the-Manifold-Hypothesis-in-Deep-Learning/answer/Jordan-Bennett-9
-⋅⋅* https://www.quora.com/Artificial-Intelligence-What-is-an-intuitive-explanation-of-how-deep-Q-networks-DQN-work/answer/Jordan-Bennett-9
+* https://www.quora.com/How-does-quantum-computing-work/answer/Jordan-Bennett-9
+* https://github.com/JordanMicahBennett/SIMPLE-NEURAL-NETWORK
+* https://www.quora.com/What-is-the-Manifold-Hypothesis-in-Deep-Learning/answer/Jordan-Bennett-9
+* https://www.quora.com/Artificial-Intelligence-What-is-an-intuitive-explanation-of-how-deep-Q-networks-DQN-work/answer/Jordan-Bennett-9
 
 
 
