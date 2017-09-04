@@ -7,7 +7,7 @@
 
 DESCRIPTION
 ============================================
-The [temporal difference horizon](https://en.wikipedia.org/wiki/Bellman_equation) ~ [C<sup>∞π</sup>(R<sup>nπ</sup>)](http://www.academia.edu/25733790/Causal_Neural_Paradox_Thought_Curvature_Quite_the_transient_naive_hypothesis), compounds some [hierarchical causal fabric](http://ir.uiowa.edu/cgi/viewcontent.cgi?article=2035&context=etd) ~ [η](https://en.m.wikipedia.org/wiki/Direct_numerical_simulation).
+The [temporal difference horizon](https://en.wikipedia.org/wiki/Bellman_equation) ~ [C<sup>∞π</sup>(R<sup>nπ</sup>)](https://www.academia.edu/25733790/Thought_Curvature_A_naive_hypothesis), compounds some [hierarchical causal fabric](http://ir.uiowa.edu/cgi/viewcontent.cgi?article=2035&context=etd) ~ [η](https://en.m.wikipedia.org/wiki/Direct_numerical_simulation).
 
 
 
@@ -32,13 +32,18 @@ See [thought curvature](http://www.academia.edu/25733790/Causal_Neural_Paradox_T
 
 
 
-LOGIC
+
+
+
+
+LEMMA (PRIOR)
 ============================================
-Manifold abstraction expression/composition language.
+https://www.quora.com/How-does-quantum-computing-work/answer/Jordan-Bennett-9
+https://github.com/JordanMicahBennett/SIMPLE-NEURAL-NETWORK
+https://www.quora.com/What-is-the-Manifold-Hypothesis-in-Deep-Learning/answer/Jordan-Bennett-9
+https://www.quora.com/Artificial-Intelligence-What-is-an-intuitive-explanation-of-how-deep-Q-networks-DQN-work/answer/Jordan-Bennett-9
 
 
-
-On [observation](https://www.quora.com/How-does-quantum-computing-work/answer/Jordan-Bennett-9) of the mechanics of the universe (whence abstractions {~reality} compound in particle interaction sequences and thereafter, in particle terms) and machine learning longueur (i.e. [A simple neural model of mine](https://github.com/JordanMicahBennett/SIMPLE-NEURAL-NETWORK), [A detailed description of mine, constituiting the manifold hypothesis](https://www.quora.com/What-is-the-Manifold-Hypothesis-in-Deep-Learning/answer/Jordan-Bennett-9), [An extensive description of mine constituting deep-q-learning](https://www.quora.com/Artificial-Intelligence-What-is-an-intuitive-explanation-of-how-deep-Q-networks-DQN-work/answer/Jordan-Bennett-9)...), I had come to compose of [God’s boundary](https://github.com/JordanMicahBennett/God).
 
 
 
