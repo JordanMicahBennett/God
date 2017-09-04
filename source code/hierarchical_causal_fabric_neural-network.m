@@ -1,6 +1,6 @@
 %% Author ~ Christopher Lu
-%% Adaptor ~ Jordan Micah Bennett ~ Thought Curvature Hypothesis
-%% Adaptor ~ Adaptation Intent : The encodement of curvature basis neural structure.
+%% Editor ~ Jordan Micah Bennett ~ Thought Curvature Hypothesis
+%% Editor ~ Adaptation Intent : The encodement of curvature basis neural structure.
 
 
 
