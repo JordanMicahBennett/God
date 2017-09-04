@@ -21,7 +21,7 @@ The [temporal difference horizon](https://en.wikipedia.org/wiki/Bellman_equation
 
 NAIVE PAPER 
 ============================================
-See [thought curvature](http://www.academia.edu/25733790/Causal_Neural_Paradox_Thought_Curvature_Quite_the_transient_naive_hypothesis).
+See [thought curvature](https://www.academia.edu/25733790/Thought_Curvature_A_naive_hypothesis).
 
 
 
