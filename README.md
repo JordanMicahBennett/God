@@ -71,7 +71,7 @@ http://mindparadoxlabs.appspot.com/
 
 POST SCRIPTUM
 ============================================
-As an atheist, I [haven't any belief](http://nonbeliefism.com), and thereafter, I haven't any belief in God or gods. 
+I [haven't any belief](http://nonbeliefism.com), and thereafter, I haven't any belief in God or gods. 
 
 
 However:
