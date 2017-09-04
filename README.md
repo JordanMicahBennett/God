@@ -71,13 +71,13 @@ http://mindparadoxlabs.appspot.com/
 
 POST SCRIPTUM
 ============================================
-I [haven't any belief](http://nonbeliefism.com), and thereafter, I haven't any belief in God or gods. 
+As an atheist, I [haven't any belief](http://nonbeliefism.com), and thereafter, I haven't any belief in God or gods. 
 
 
 However:
 
 
-Mankind, shall [perhaps](https://medium.com/@uni.omniscient.x/god-is-probably-quite-real-a466e9f24a0b#.rsg2cokz7) promptly possess/generate certain God bound capabilities.
+[God is scientifically redefinable](https://www.academia.edu/31660547/A_scientific_redefinition_of_God_by_an_atheist), such that man occurs in the aforesaid redefinition.
 
 
 
