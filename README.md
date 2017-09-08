@@ -51,13 +51,12 @@ https://jordanmicahbennett.github.io/Supermathematics-and-Artificial-General-Int
 
 LEMMA (PRIOR)
 ============================================
-* https://www.quora.com/How-does-quantum-computing-work/answer/Jordan-Bennett-9
 * https://github.com/JordanMicahBennett/SIMPLE-NEURAL-NETWORK
-* https://www.quora.com/What-is-the-Manifold-Hypothesis-in-Deep-Learning/answer/Jordan-Bennett-9
-* https://www.quora.com/Artificial-Intelligence-What-is-an-intuitive-explanation-of-how-deep-Q-networks-DQN-work/answer/Jordan-Bennett-9
 * https://github.com/JordanMicahBennett/MORPHING-SOMATIC-QUASICRYSTAL-PATH-ALGORITHM
 * https://github.com/JordanMicahBennett/EJECTION-FRACTION-IRREGULARITY-DETECTION-MODEL
-
+* https://www.quora.com/What-is-the-Manifold-Hypothesis-in-Deep-Learning/answer/Jordan-Bennett-9
+* https://www.quora.com/Artificial-Intelligence-What-is-an-intuitive-explanation-of-how-deep-Q-networks-DQN-work/answer/Jordan-Bennett-9
+* https://www.quora.com/How-does-quantum-computing-work/answer/Jordan-Bennett-9
 
 
 
