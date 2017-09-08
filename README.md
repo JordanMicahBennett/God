@@ -32,6 +32,18 @@ See [thought curvature](https://www.academia.edu/25733790/Thought_Curvature_A_na
 
 
 
+CLEAR EXPLANATION
+https://jordanmicahbennett.github.io/Supermathematics-and-Artificial-General-Intelligence/
+
+
+
+
+
+
+
+
+
+
 
 
 
