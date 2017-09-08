@@ -19,7 +19,7 @@ The [temporal difference horizon](https://en.wikipedia.org/wiki/Bellman_equation
 
 
 
-NAIVE PAPER 
+PAPER 
 ============================================
 See [thought curvature](https://www.academia.edu/25733790/Thought_Curvature_A_naive_hypothesis).
 
@@ -32,7 +32,8 @@ See [thought curvature](https://www.academia.edu/25733790/Thought_Curvature_A_na
 
 
 
-CLEAR EXPLANATION
+SIMPLE EXPLANATION
+============================================
 https://jordanmicahbennett.github.io/Supermathematics-and-Artificial-General-Intelligence/
 
 
