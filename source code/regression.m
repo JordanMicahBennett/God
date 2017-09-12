@@ -41,9 +41,32 @@ for i = 1:number_of_iterations
  activation_function = (tanh(training_input(n,:)*input_weight))';
 
  % Backpropagation:
- prediction = activation_function'*output_weight'; 
+ %defaultPrediction = activation_function'*output_weight'; %Jordan_note: I recompute the input wait to be the Hamiltonian pdata instead.
 	
- error = prediction-training_target(n,1);
+	%Modification by Jordan - For Hamiltonian based backpropagation.
+	%I design this psuedo-code based on the account of the Boltzmann Machine, as underlined in 
+	%the "Quantum Boltzmann Machine" paper by Amin.
+		%construct the quadratic energy distribution
+		qed = 0;
+		qedNonSquaredComponent_Sum = 0;
+		qedSquaredComponent_Sum = 0;
+		qedNonSquaredComponent_Sum = qedNonSquaredComponent_Sum + ( bias * training_input(n,:) );
+		qedSquaredComponent_Sum = qedSquaredComponent_Sum + ( output_weight * training_input(n,:) * training_input (n,:) ); %(the quadratic part)
+		qed = - ( qedNonSquaredComponent_Sum ) - qedSquaredComponent_Sum;
+		
+		%construct Z
+		Z = 0;
+		Z = Z + power(qed,-qed);
+		
+ %Modification by Jordan - this new Hamiltonian has replaced the 'defaultPrediction' above.
+ hamiltonianPrediction = power(Z,-1) * Z; 
+ 
+ %Modification by Jordan - To Do's 
+ % (1) Develop pseudo-code for the transverse field.
+ % (2) Develop pseudo-code for the (Super-) Hamiltonian according to https://arxiv.org/abs/hep-th/0506170
+
+ 
+ error = hamiltonianPrediction-training_target(n,1);
  delta_output = error.*output_learning_rate.*activation_function;
  output_weight = output_weight-delta_output';
  delta_input= input_learning_rate.*error.*output_weight'.*(1-
