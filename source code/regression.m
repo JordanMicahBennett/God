@@ -41,7 +41,8 @@ for i = 1:number_of_iterations
  activation_function = (tanh(training_input(n,:)*input_weight))';
 
  % Backpropagation:
- prediction = activation_function'*output_weight';
+ prediction = activation_function'*output_weight'; 
+	
  error = prediction-training_target(n,1);
  delta_output = error.*output_learning_rate.*activation_function;
  output_weight = output_weight-delta_output';
@@ -49,8 +50,12 @@ for i = 1:number_of_iterations
 (activation_function.^2))*training_input(n,:); % d/dx tanh
  input_weight = input_weight - delta_input';
  end
+ 
+
+ 
  % Visual Output
- prediction = output_weight*tanh(training_input*input_weight)';
+ prediction = output_weight*tanh(training_input*input_weight)';  
+ 
  final_error = prediction'-training_target;
  error_plot(i) = (sum(final_error.^2))^0.5;
  figure(1); plot(error_plot)
