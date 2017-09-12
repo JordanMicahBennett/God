@@ -41,7 +41,7 @@ for i = 1:number_of_iterations
  activation_function = (tanh(training_input(n,:)*input_weight))';
 
  % Backpropagation:
- %defaultPrediction = activation_function'*output_weight'; %Jordan_note: I recompute the input wait to be the Hamiltonian pdata instead.
+ %defaultPrediction = activation_function'*output_weight'; %Jordan_note: I recompute the prediction to be the Hamiltonian latent space instead
 	
 	%Modification by Jordan - For Hamiltonian based backpropagation.
 	%I design this psuedo-code based on the account of the Boltzmann Machine, as underlined in 
