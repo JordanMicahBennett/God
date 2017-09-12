@@ -1,6 +1,6 @@
 %% Author, Meso-scale Simulation Paper: Christopher Lu
 %% Author, Thought Curvature Paper: Jordan Micah Bennett 
-%% Author, Thought Curvature Paper, Notes: The typical neural network model, adjusted to perform Hamiltonian computation w.r.t. some input space.
+%% Author, Thought Curvature Paper, Notes: The typical neural network model
 
 
 
