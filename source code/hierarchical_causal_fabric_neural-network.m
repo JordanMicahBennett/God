@@ -1,10 +1,9 @@
-%% Author ~ Christopher Lu
-%% Editor ~ Jordan Micah Bennett ~ Thought Curvature Hypothesis
-%% Editor ~ Adaptation Intent : The encodement of curvature basis neural structure.
+%% Author, Meso-scale Simulation Paper: Christopher Lu
+%% Author, Thought Curvature Paper: Jordan Micah Bennett 
+%% Author, Thought Curvature Paper, Notes: The typical neural network model, adjusted to perform Hamiltonian computation w.r.t. some input space.
 
 
 
-%% [ThoughtCurvature_Post_Scriptum] This is a quite quintessential neural sequence, in tandem with trivial neuronal units of outcomes, gradients and weights.
 
 %% Starting on this level, going down
 [Training_Data ,Target_Data, startvalue] = MULTI-RESOLUTION_ANALYSIS(Data);

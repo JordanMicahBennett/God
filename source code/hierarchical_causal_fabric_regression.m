@@ -1,6 +1,6 @@
-%% Author ~ Christopher Lu
-%% Editor ~ Jordan Micah Bennett ~ Thought Curvature Hypothesis
-%% Editor ~ Adaptation Intent : The encodement of curvature par MESOSCALE/MACROSCALE {η} abstraction COMPOSITION, in the Belmanian regime. Therein, I shall derive strictly non-intemperate fluid-particle|particle-particle  interaction sequences, betwixt some reasonable bound in Mach number M terms...
+%% Author, Meso-scale Simulation Paper: Christopher Lu
+%% Author, Thought Curvature Paper: Jordan Micah Bennett 
+%% Author, Thought Curvature Paper, Notes: This code structure is designed to take MESOSCALE p^data as parameters to the hierarchical_causal_fabric_neural-network model. Training then occurs on this p^data to generate pdata, the empirical distribution w.r.t to the training set of MESOSCALE input space.
 
 
 

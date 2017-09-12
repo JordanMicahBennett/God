@@ -1,6 +1,6 @@
-%% Author ~ Christopher Lu
-%% Editor ~ Jordan Micah Bennett ~ Thought Curvature Hypothesis
-%% Editor ~ Adaptation Intent : The encodement of curvature par MESOSCALE/MACROSCALE {η} abstraction EXPRESSION, in the Belmanian regime. Therein, I shall derive strictly non-intemperate fluid-particle|particle-particle interaction sequences, betwixt some reasonable bound in Mach number M terms...
+%% Author, Meso-scale Simulation Paper: Christopher Lu
+%% Author, Thought Curvature Paper: Jordan Micah Bennett 
+%% Author, Thought Curvature Paper, Notes: This code structure is designed to learn macro-scale behaviours of aggregate particles, based on the pre-trained neural network model, on the meso-scale input space.
 
 
 %% Defined Constants
@@ -15,7 +15,7 @@ endt = 1001; % End Time
 Mach = 2.0 ;
 
 
-%% [ThoughtCurvature_Post_Scriptum] I take the facing arrays of numbers of allocation as symbolization qua "Christopher Lu's MESOSCALE" fabric, particularly, the input signal sequence of particle properties.
+
 %% Allocating Arrays
 cen = zeros(2,NP); % X and Y Particle Center
 vel = zeros(2,NP); % X and Y Particle Velocity
@@ -46,7 +46,7 @@ for i = 1:NP
  phi(i) = volfrac( cen(1,i) , cen(2,i) );
 end
 
-%% [ThoughtCurvature_Post_Scriptum] I take the facing arrays of numbers of allocation as symbolization qua "Christopher Lu's MACROSCALE" fabric, particularly, the neural outcome signal sequence of 'absorbed' particle properties.
+
 tau(i) = ARTIFICIAL_NEURAL_NETWORK_TAU(Mach, denr, phi(i), time); % Already Trained ANN
 max(i) = ARTIFICIAL_NEURAL_NETWORK_MAX(Mach, denr, phi(i), time);
 %% Main Loop: ADVECTION SCHEME
