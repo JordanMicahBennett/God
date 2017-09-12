@@ -62,9 +62,10 @@ for i = 1:number_of_iterations
  hamiltonianPrediction = power(Z,-1) * Z; 
  
  %Modification by Jordan - To Do's 
- % (1) Develop pseudo-code for the transverse field.
- % (2) Develop pseudo-code for the (Super-) Hamiltonian according to https://arxiv.org/abs/hep-th/0506170
-
+ % (1) Develop pseudo-code to complete backpropagation, by updating theta in terms of Hamiltonian based quadratic energy distribution.
+ % (2) Develop pseudo-code for the transverse field.
+ % (3) Develop pseudo-code for the RL, using learnt numerical simulation data to form a pre-trained Hamiltonian model.
+ % (4) Develop pseudo-code for the (Super-) Hamiltonian according to https://arxiv.org/abs/hep-th/0506170
  
  error = hamiltonianPrediction-training_target(n,1);
  delta_output = error.*output_learning_rate.*activation_function;
