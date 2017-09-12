@@ -1,6 +1,6 @@
 # hamiltonian-monte-carlo
 
-Implementation of Hamiltonian Monte Carlo using Google's TensorFlow
+Implementation of Hamiltonian Monte Carlo using Google's TensorFlow, by [arahuja](https://github.com/arahuja/hamiltonian-monte-carlo)
 
 ### Examples
 
