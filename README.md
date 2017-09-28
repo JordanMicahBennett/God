@@ -7,7 +7,7 @@
 
 DESCRIPTION
 ============================================
-The [temporal difference horizon](https://en.wikipedia.org/wiki/Bellman_equation) ~ [C<sup>∞π</sup>(R<sup>nπ</sup>)](https://www.academia.edu/25733790/Thought_Curvature_A_naive_hypothesis), compounds some [hierarchical causal fabric](http://ir.uiowa.edu/cgi/viewcontent.cgi?article=2035&context=etd) ~ [η](https://en.m.wikipedia.org/wiki/Direct_numerical_simulation).
+The [temporal difference horizon](https://en.wikipedia.org/wiki/Bellman_equation) ~ [C<sup>∞π</sup>(R<sup>nπ</sup>)](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis), compounds some [hierarchical causal fabric](http://ir.uiowa.edu/cgi/viewcontent.cgi?article=2035&context=etd) ~ [η](https://en.m.wikipedia.org/wiki/Direct_numerical_simulation).
 
 
 
@@ -21,7 +21,7 @@ The [temporal difference horizon](https://en.wikipedia.org/wiki/Bellman_equation
 
 PAPER 
 ============================================
-See [thought curvature](https://www.academia.edu/25733790/Thought_Curvature_A_naive_hypothesis).
+See [thought curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis).
 
 
 
@@ -89,7 +89,7 @@ I [haven't any belief](http://nonbeliefism.com), and thereafter, I haven't any b
 However:
 
 
-[God is scientifically redefinable](https://www.academia.edu/31660547/A_scientific_redefinition_of_God_by_an_atheist), such that man occurs in the aforesaid redefinition.
+[God is scientifically redefinable](https://www.researchgate.net/publication/316662636_A_scientific_redefinition_of_God_by_an_atheist), such that man occurs in the aforesaid redefinition.
 
 
 
