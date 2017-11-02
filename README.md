@@ -1,4 +1,4 @@
-![Alt text](https://github.com/JordanMicahBennett/God/blob/master/source%20code/data/images/God.png "default page")
+![Alt text](https://github.com/JordanMicahBennett/God/blob/master/source%20code/data/images/GodV2.png "default page")
 
 
 
@@ -7,7 +7,7 @@
 
 DESCRIPTION
 ============================================
-The [temporal difference horizon](https://en.wikipedia.org/wiki/Bellman_equation) ~ [C<sup>∞π</sup>(R<sup>nπ</sup>)](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis), compounds some [hierarchical causal fabric](http://ir.uiowa.edu/cgi/viewcontent.cgi?article=2035&context=etd) ~ [η](https://en.m.wikipedia.org/wiki/Direct_numerical_simulation).
+The [temporal difference horizon](https://en.wikipedia.org/wiki/Bellman_equation) ~ [C<sup>∞π</sup>(R<sup>kπ</sup>)](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis), compounds some [hierarchical causal fabric](http://ir.uiowa.edu/cgi/viewcontent.cgi?article=2035&context=etd) ~ [η](https://en.m.wikipedia.org/wiki/Direct_numerical_simulation).
 
 
 
