@@ -21,7 +21,7 @@ The [temporal difference horizon](https://en.wikipedia.org/wiki/Bellman_equation
 
 PAPER 
 ============================================
-See [thought curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis).
+See [Thought Curvature i.e. the 'Supersymmetric Artificial Neural Network'](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis).
 
 
 
