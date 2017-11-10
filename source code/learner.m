@@ -69,8 +69,8 @@ for i = 1:number_of_iterations
  
  % Toy Example To Do's 
  % Outside of reinforcement learning:
- % (1) Generalize the "Supersymmetric LSA" found here: https://arxiv.org/pdf/quant-ph/0309022.pdf
- % (2) Do a "toy example" on a mnist based dataset, based on the generalization in (1)
+ % (1) Generalize the "Supersymmetric LSA" found here: https://arxiv.org/pdf/quant-ph/0309022.pdf, using python language
+ % (2) Do a "toy example" on a mnist based dataset, based on the generalization in (1), using python language
  
  error = hamiltonianPrediction-training_target(n,1);
  delta_output = error.*output_learning_rate.*activation_function;
