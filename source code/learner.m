@@ -68,9 +68,9 @@ for i = 1:number_of_iterations
  % (4) Develop pseudo-code for the (Super-) Hamiltonian according to https://arxiv.org/abs/hep-th/0506170
  
  % Toy Example To Do's 
- % Outside of reinforcement learning:
- % (1) Generalize the "Supersymmetric LSA" found here: https://arxiv.org/pdf/quant-ph/0309022.pdf, using python language
- % (2) Do a "toy example" on a mnist based dataset, based on the generalization in (1), using python language
+ % CORE-TARGET-SOURCE: https://arxiv.org/pdf/quant-ph/0309022.pdf
+ % (1) Perhaps using python, generalize the “Superymmetric LSA” found in the arxiv link above, such that the special unitary matrix Q can capture information independent of sentence reduction.
+ % (2) Do a "toy example" on a mnist based dataset, based on the generalization in (1), perhaps using python language
  
  error = hamiltonianPrediction-training_target(n,1);
  delta_output = error.*output_learning_rate.*activation_function;
