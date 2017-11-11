@@ -71,7 +71,7 @@ for i = 1:number_of_iterations
  % CORE-TARGET-SOURCE: https://arxiv.org/pdf/quant-ph/0309022.pdf
  % (1) Perhaps using python, generalize the “Superymmetric LSA” found in the arxiv link above, such that the special unitary matrix Q can capture information independent of sentence reduction.
  % (2) Do a "toy example" on a mnist based dataset, based on the generalization in (1), perhaps using python language
- 
+ % (3) Alternative, find a way to parameterize a special unitary matrix, and compare results to either the unitaryRNN by Martin et al, or the full capacity unitaryRNN by Thomas et al.
  error = hamiltonianPrediction-training_target(n,1);
  delta_output = error.*output_learning_rate.*activation_function;
  output_weight = output_weight-delta_output';
