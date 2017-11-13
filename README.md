@@ -26,7 +26,9 @@ See [Thought Curvature ('Supersymmetric Artificial Neural Network')](https://www
 
 
 
-
+SUPERSYMMETRIC ARTIFICIAL NEURAL NETWORK
+==============================================
+https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network
 
 
 
@@ -95,9 +97,7 @@ However:
 
 
 
-SUPERSYMMETRIC ARTIFICIAL NEURAL NETWORK
-==============================================
-https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network
+
 
 
 
