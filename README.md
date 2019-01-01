@@ -16,9 +16,6 @@ The [temporal difference horizon](https://en.wikipedia.org/wiki/Bellman_equation
 
 
 
-
-
-
 PAPER 
 ============================================
 See [Thought Curvature ('Supersymmetric Artificial Neural Network')](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis).
@@ -83,7 +80,7 @@ http://mindparadoxlabs.appspot.com/
 
 
 
-POST SCRIPTUM
+AIM AND CONCLUSION
 ============================================
 I [haven't any belief](http://nonbeliefism.com), and thereafter, I haven't any belief in God or gods. 
 
@@ -92,6 +89,8 @@ However:
 
 
 [God is scientifically redefinable](https://www.researchgate.net/publication/316662636_A_scientific_redefinition_of_God_by_an_atheist), such that man occurs in the aforesaid redefinition.
+
+As such, [this model](https://github.com/JordanMicahBennett/God) seeks to non-trivially contribute to the development of artificial general intelligence, as underlined in the god-redefinition document prior. Crucially, I don't claim that [this model](https://github.com/JordanMicahBennett/God) is nearly complete/sensible enough to describe AGI, although I seek that the "[Supersymmetric Artificial Neural Network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network)", an essential part of this model, while optimally contributing to AGI research in the representation learning space, perhaps become as influential as for example, the [convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network) reasonably invented by Yann Lecun.
 
 
 
