@@ -82,7 +82,7 @@ http://mindparadoxlabs.appspot.com/
 
 AIM AND CONCLUSION
 ============================================
-I [haven't any belief](http://nonbeliefism.com), and thereafter, I haven't any belief in God or gods. 
+I [haven't any belief](http://non-beliefism-info.appspot.com/), and thereafter, I haven't any belief in God or gods. 
 
 
 However:
